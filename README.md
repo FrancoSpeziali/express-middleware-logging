@@ -57,7 +57,7 @@ In the middleware you created for Task 1, make it so that the any requests for t
 
 - Use this middleware to "protect" the endpoint you wrote in **Task 2**
 
-## Task 5 - Add some dummy endpoints
+## Task 5 - Add some data to your log
 
 - Make a number of requests to your endpoint to generate some data for your log
 
